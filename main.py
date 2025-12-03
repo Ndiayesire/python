@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is a simple Python script.")
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print(f"Welcome, {name} and your age is {age} !")
